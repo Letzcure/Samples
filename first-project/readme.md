@@ -1,0 +1,1 @@
+Sample Spring Boot application using AWS java SDK
